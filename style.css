@@ -147,7 +147,7 @@ h3.comments {
 }
 
 .choosertext {
-	font-size:8px;
+	font-size:9px;
 	color:#999999;
 	margin: 0 0 5px 0;
 }
@@ -418,3 +418,6 @@ table caption {
 	font-size:12px;
 }
 
+.gallery {
+	overflow: auto;
+}
