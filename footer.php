@@ -4,8 +4,8 @@
 	<p>
 		Theme by <a href="http://www.backandforthblog.com" title="Back and Forth - The blog" target="_blank">Justin Winslow</a> |
 		<a href="http://wordpress.org/">WordPress</a> |
-		<a href="feed:<?php bloginfo('rss2_url'); ?>">Entries (RSS)</a>
-		and <a href="feed:<?php bloginfo('comments_rss2_url'); ?>">Comments (RSS)</a>
+		<a href="<?php bloginfo('rss2_url'); ?>">Entries (RSS)</a>
+		and <a href="<?php bloginfo('comments_rss2_url'); ?>">Comments (RSS)</a>
 		<!-- <?php echo get_num_queries(); ?> queries. <?php timer_stop(1); ?> seconds. -->
 	</p>
 </div>
