@@ -1,0 +1,6 @@
+/* Color switcher - Blue*/
+
+body, #search input { background-color:#985908; }
+#header, #footer { background-color:#CC8831; }
+a:hover, #header p { color:#985908; }
+a, #header p { color:#CC8831; }

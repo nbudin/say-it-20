@@ -1,0 +1,19 @@
+Color
+Dark
+Light
+
+Orange
+742D07  985908
+C04F12  CC8831
+
+Red
+3E1414
+5E2929
+
+Blue
+37425B
+596789
+
+Green
+3D5D31
+5B7B4F
